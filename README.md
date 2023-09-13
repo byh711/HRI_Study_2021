@@ -35,5 +35,4 @@ Before uploading or sharing this repository, ensure you remove or replace any AP
 
 ## Acknowledgements
 
-This work was supported by a grant from the National Research Foundation of Korea (NRF) (Grant number:2021R1G1A1003801). 
-We would like to thank our other research collaborators who contributed to this work.
+This work was supported by a grant from the National Research Foundation of Korea (NRF) (Grant number:2021R1G1A1003801).
