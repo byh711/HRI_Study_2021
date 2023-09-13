@@ -3,7 +3,7 @@
 ## Overview
 This repository contains the source code and datasets used for our research project on human-agent interaction in the cooperative game "Don't Starve Together". Our research emphasizes the importance of understanding cross-cultural language differences and their effects on social cognition during interactions.
 
-## Scholarly Paper: Effects of Cross-Cultural Language Differences on Social Cognition during Human-Agent Interaction in Cooperative Game Environments
+## Effects of Cross-Cultural Language Differences on Social Cognition during Human-Agent Interaction in Cooperative Game Environments
 
 ### Abstract
 The research delves into the profound impact of cross-cultural language differences on social cognition during interactions between humans and agents in cooperative game settings. This study underscores the paramount importance of understanding these effects to enhance the design of human-agent interaction systems, especially in multicultural contexts.
