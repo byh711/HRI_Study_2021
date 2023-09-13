@@ -1,6 +1,26 @@
 # 2021 Experiment: Human-Agent Interaction in "Don't Starve Together"
 
-This repository contains the code for a speech system designed to facilitate human-agent interactions during gameplay in "Don't Starve Together". The project aims to provide speech capabilities to a character in the game, enabling dynamic interactions based on the game's state and player's actions.
+## Overview
+This repository contains the source code and datasets used for our research project on human-agent interaction in the cooperative game "Don't Starve Together". Our research emphasizes the importance of understanding cross-cultural language differences and their effects on social cognition during interactions.
+
+## Scholarly Paper: Effects of Cross-Cultural Language Differences on Social Cognition during Human-Agent Interaction in Cooperative Game Environments
+
+### Abstract
+The research delves into the profound impact of cross-cultural language differences on social cognition during interactions between humans and agents in cooperative game settings. This study underscores the paramount importance of understanding these effects to enhance the design of human-agent interaction systems, especially in multicultural contexts.
+
+### Key Findings
+1. **Influence on Perception and Behavior:** Cross-cultural language differences significantly sway the perception and behavior of players in cooperative game environments.
+2. **Varied Interpretations:** Players hailing from diverse cultural backgrounds might interpret and respond to agent behaviors in different ways, leading to a spectrum of game outcomes.
+3. **Design Considerations:** The design of agents should be mindful of cultural nuances to ensure effective communication and cooperation among diverse user groups.
+
+### Recommendations
+- **Awareness Among Developers:** Developers should be cognizant of cultural differences and the potential ramifications they might have on human-agent interactions.
+- **Cultural Adaptability in Design:** Incorporating a sense of cultural adaptability in agent design can pave the way for more inclusive and effective gaming experiences.
+
+### Publication Details
+- **Journal:** [Computer speech & language Volume: 81 (2023) ISSN: 0885-2308]
+- **Authors:** [Casey C. Bennett, Young-Ho Bae, Jun Hyung Yoon, Yejin Chae, Eunseo Yoon, Seeun Lee, Uijae Ryu, Benjamin Weiss]
+- **Link:** [ScienceDirect Paper](https://doi.org/10.1016/j.csl.2023.101521.)
 
 ## Features
 
