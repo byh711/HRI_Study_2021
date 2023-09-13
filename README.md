@@ -18,8 +18,8 @@ The research delves into the profound impact of cross-cultural language differen
 - **Cultural Adaptability in Design:** Incorporating a sense of cultural adaptability in agent design can pave the way for more inclusive and effective gaming experiences.
 
 ### Publication Details
-- **Journal:** [Computer speech & language Volume: 81 (2023) ISSN: 0885-2308]
-- **Authors:** [Casey C. Bennett, Young-Ho Bae, Jun Hyung Yoon, Yejin Chae, Eunseo Yoon, Seeun Lee, Uijae Ryu, Benjamin Weiss]
+- **Journal:** Computer speech & language Volume: 81 (2023) ISSN: 0885-2308
+- **Authors:** Casey C. Bennett, Young-Ho Bae, Jun Hyung Yoon, Yejin Chae, Eunseo Yoon, Seeun Lee, Uijae Ryu, Benjamin Weiss
 - **Link:** [ScienceDirect Paper](https://doi.org/10.1016/j.csl.2023.101521.)
 
 ## Features
