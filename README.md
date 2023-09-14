@@ -5,7 +5,7 @@ This repository contains the source code and datasets used for our research proj
 
 ## 2. Hypotheses in the Study
 
-### Control Condition
+- **Control Condition**
 
 This condition serves as the baseline for the study, incorporating planning, high-level responsiveness, and IOR mechanisms.
 
