@@ -1,4 +1,4 @@
-# 2021 Experiment: Human-Agent Interaction in "Don't Starve Together"
+# 2021 Experiment: Human-Robot Interaction(HRI) Study
 
 ## 1. Overview
 This repository contains the source code and datasets used for our research project on human-agent interaction in the cooperative game "Don't Starve Together". Our research emphasizes the importance of understanding cross-cultural language differences and their effects on social cognition during interactions.
