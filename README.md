@@ -3,7 +3,7 @@
 ## 1. Overview
 This repository contains the source code and datasets used for our research project on human-agent interaction in the cooperative game "Don't Starve Together". Our research emphasizes the importance of understanding cross-cultural language differences and their effects on social cognition during interactions.
 
-## 2. Hypotheses in the Study
+## 2. Hypotheses
 
 - **Control Condition**
 
