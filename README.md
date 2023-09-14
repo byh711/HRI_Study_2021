@@ -7,15 +7,15 @@ This repository contains the source code and datasets used for our research proj
 
 - **Control Condition**
 
-This condition serves as the baseline for the study, incorporating planning, high-level responsiveness, and IOR mechanisms.
+ This condition serves as the baseline for the study, incorporating planning, high-level responsiveness, and IOR mechanisms.
 
 - **H2: Responsiveness**
 
-This hypothesis tests the effect of adding reactions to player talk using automatic speech recognition (ASR). The primary focus is to determine the "level" of responsiveness required, comparing high-level vs. low-level responsiveness.
+ This hypothesis tests the effect of adding reactions to player talk using automatic speech recognition (ASR). The primary focus is to determine the "level" of responsiveness required, comparing high-level vs. low-level responsiveness.
 
 - **H3: Social Inhibition of Return (IOR) Mechanisms**
 
-IOR mechanisms play a pivotal role in human attention systems. This hypothesis aims to test these using repetition delays built into the Social AI. The main questions addressed are the necessary delay durations, their longevity, and instances where repetition might be preferable.
+ IOR mechanisms play a pivotal role in human attention systems. This hypothesis aims to test these using repetition delays built into the Social AI. The main questions addressed are the necessary delay durations, their longevity, and instances where repetition might be preferable.
 
 ## 3. Research Paper
 ### Effects of Cross-Cultural Language Differences on Social Cognition during Human-Agent Interaction in Cooperative Game Environments
